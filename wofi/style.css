@@ -1,0 +1,35 @@
+*{
+    border-radius: 5px;
+    border: none;
+    font-family: 'Roboto Mono Meduim';
+}
+
+window{
+    font-size: 20px;
+    background-color: #1e1e1e ;
+}
+
+#entry{
+    padding: 0.25em;
+    color: #d5d6db;
+}
+
+#entry:selected {
+    background-color:#d5d6db;
+    color: #1e1e1e;
+}
+
+#text:selected {
+    color: #1e1e1e;
+}
+
+#input{
+    background-color: #1e1e1e;
+    color: #a6afd5;
+    padding: 0.25em;
+}
+
+image{
+    margin-left: .25em;
+    margin-right: .25em;
+}

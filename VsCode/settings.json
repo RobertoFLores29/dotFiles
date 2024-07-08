@@ -1,0 +1,26 @@
+{
+    "redhat.telemetry.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "java.completion.favoriteStaticMembers": [
+        "org.junit.Assert.*",
+        "org.junit.Assume.*",
+        "org.junit.jupiter.api.Assertions.*",
+        "org.junit.jupiter.api.Assumptions.*",
+        "org.junit.jupiter.api.DynamicContainer.*",
+        "org.junit.jupiter.api.DynamicTest.*",
+        "org.mockito.Mockito.*",
+        "org.mockito.ArgumentMatchers.*",
+        "org.mockito.Answers.*"
+    ],
+
+    "editor.scrollbar.vertical":"hidden",
+    "breadcrumbs.enabled": false,
+    "editor.fontFamily": "Roboto Mono Medium",
+    "editor.inlayHints.fontFamily": "",
+    "editor.codeLensFontFamily": "JetBrains Mono",
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "eq-material-theme-icons"
+
+}
