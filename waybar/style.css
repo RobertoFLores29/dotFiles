@@ -47,12 +47,14 @@ button {
 }
 
 #workspaces button:hover {
-    color: #1e1e1e;
+    background-color:#ffffff;
+    color: #d5d6db;
 }
 
-#workspaces button.focused {
+#workspaces button {
     color: #1e1e1e ;
     background-color: #d5d6db;
+    margin: 3px;
 }
 
 #workspaces button.urgent {
@@ -86,10 +88,6 @@ button {
     background-color: #d5d6db;
 }
 
-#window,
-#workspaces {
-    margin: 0 4px;
-}
 
 /* If workspaces is the leftmost module, omit left margin */
 .modules-left > widget:first-child > #workspaces {
